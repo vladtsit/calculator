@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/vladtsitops/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines-%20calc/_apis/build/status/vladtsit.calculator?branchName=refs%2Fpull%2F3%2Fmerge)](https://dev.azure.com/vladtsitops/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines-%20calc/_build/latest?definitionId=6&branchName=refs%2Fpull%2F3%2Fmerge)
